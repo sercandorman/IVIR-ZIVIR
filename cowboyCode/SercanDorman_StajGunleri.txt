@@ -1,0 +1,3 @@
+1) Android, Sdk, Canvas, KovboyHareket
+2) KovboyAtes, DusmanHareket, DusmanAtes
+
